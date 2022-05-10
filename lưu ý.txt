@@ -1,0 +1,1 @@
+Khi chạy code cần ghép 2 file image thành 1 file và đặt tên file là: image
